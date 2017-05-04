@@ -1,0 +1,45 @@
+
+body, ul, li, div {
+  margin: 0;
+  padding: 0;
+}
+
+ul, li { list-style: none; }
+
+.wrap {
+  width: 100% !important;  
+  position: relative;
+  margin: 30px auto;
+  overflow: hidden;
+  text-align: center;
+}
+.li_item{
+  text-align: center;
+  vertical-align: middle;
+}
+.li_item a img{     
+   height: 100%;   
+   background-color: #fff;
+
+}
+.gg_btn {
+  overflow: hidden;
+  cursor: pointer;
+  position: absolute;
+}
+
+.gg_left { background: url(../img/prev.png) no-repeat center center; }
+
+.gg_right {
+  background: url(../img/next.png) no-repeat center center;
+  right: 0px;
+}
+
+.wrap ul {
+  width: 600px;
+  height: 270px;
+}
+
+.wrap ul li { position: absolute; }
+
+/*# sourceMappingURL=css.css.map */
