@@ -1,2 +1,7 @@
 RewriteEngine On 
 Options -Indexes 
+RewriteRule ^mahle?$ eventos/mahle/mahle.html
+RewriteRule ^jae?$ eventos/jae/jae.html
+RewriteRule ^box7?$ eventos/box7/box7.html
+RewriteRule ^cdl?$ eventos/cdl/cdl.html
+RewriteRule ^day?$ eventos/castrol_day/day.html
