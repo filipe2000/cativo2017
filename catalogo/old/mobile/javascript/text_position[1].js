@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"CATÁLOGO DE PRODUTOS ",left:0.107247,top:0.507357,width:0.789211,height:0.083304},{word:"anos",left:0.705674,top:0.449747,width:0.058534,height:0.020658},{word:"DISTRIBUIDOR AUTORIZADO",left:0.513641,top:0.955577,width:0.199531,height:0.011505}]};
