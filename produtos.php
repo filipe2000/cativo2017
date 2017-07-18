@@ -416,6 +416,75 @@
                             </div>
                         </div>          
                     </div><!--/.produto-item-->
+                    <!--lançamento 7/2017 -->
+                    <div class="produto-item oleo col-md-2 col-xs-6 col-sm-4 ">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="img/produtos/pq/CAS3409385.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <h3 style="text-align:center;">
+                                    <a class="preview" href="img/produtos/full/CAS3409385.jpg" rel="prettyPhoto" data-lightbox="prodItem">Oleo Motor</h3>
+                                    BOT 720 12X1L
+                                    <br><i class="fa fa-eye"></i> Ver</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div>
+
+                     <div class="produto-item oleo col-md-2 col-xs-6 col-sm-4 ">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="img/produtos/pq/CAS3372071.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <h3 style="text-align:center;">
+                                    <a class="preview" href="img/produtos/full/CAS3372071.jpg" rel="prettyPhoto" data-lightbox="prodItem">Oleo Motor</h3>
+                                    CASTROL EDGE A1 5W20 12X1LT
+                                    <br><i class="fa fa-eye"></i> Ver</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div>
+
+                     <div class="produto-item oleo col-md-2 col-xs-6 col-sm-4 ">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="img/produtos/pq/CAS3370898.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <h3 style="text-align:center;">
+                                    <a class="preview" href="img/produtos/full/CAS3370898.jpg" rel="prettyPhoto" data-lightbox="prodItem">Oleo Transmissão</h3>
+                                    TRANSMAX DUAL 12X1LT
+                                    <br><i class="fa fa-eye"></i> Ver</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div>
+
+                    <div class="produto-item oleo col-md-2 col-xs-6 col-sm-4 ">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="img/produtos/pq/CAS3399643.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <h3 style="text-align:center;">
+                                    <a class="preview" href="img/produtos/full/CAS3399643.jpg" rel="prettyPhoto" data-lightbox="prodItem">Oleo Motor</h3>
+                                    SYNTRAX LONG LIFE 75W90 12X1L
+                                    <br><i class="fa fa-eye"></i> Ver</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div>
+                    <div class="produto-item oleo col-md-2 col-xs-6 col-sm-4 ">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="img/produtos/pq/CAS3366623.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner">
+                                    <h3 style="text-align:center;">
+                                    <a class="preview" href="img/produtos/full/CAS3366623.jpg" rel="prettyPhoto" data-lightbox="prodItem">Oleo Motor</h3>
+                                    CHAINSAW MOTOR OIL 40X500ML
+                                    <br><i class="fa fa-eye"></i> Ver</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div>
 
                     <div class="produto-item oleo col-md-2 col-xs-6 col-sm-4 ">
                         <div class="recent-work-wrap">
@@ -675,7 +744,7 @@
                     <div class="overlay">
                         <div class="recent-work-inner"> 
                             <h3 style="text-align:center;">         
-                            <a class="preview" href="catalogo/catalogoCativo.pdf" target="blank">Catálogo</a></h3>
+                            <a class="preview" href="catalogo/mobile/catalogo.pdf" target="blank">Catálogo</a></h3>
                         </div> 
                     </div>
                     
