@@ -112,7 +112,7 @@
 			<span><!-- texto a exibir-->
 			<span class="spoiler" style="display: none;">
 					de mais milhas registradas em um carro de passageiros de propriedade original. Um recorde mundial que nunca pode ser quebrado.
-					Desde o dia em que Irv rolou seu Volvo para fora do showroom, a Castrol / GTX foi seu óleo de escolha. Na verdade, é o único óleo que ele já usou. Para entender o que permitiu este recorde mundial, consultámos um especialista em motores Volvo e fomos debaixo do capuz para dar uma olhada mais de perto em 3 peças críticas do motor. Essas peças registraram mais milhas do que qualquer outra peça de motor atualmente registrada.
+					Desde o dia em que Irv rolou seu Volvo para fora do showroom, a Castrol / GTX foi seu óleo de escolha. Na verdade, é o único óleo que ele já usou. Para entender o que permitiu este recorde mundial, consultámos um especialista em motores Volvo e fomos debaixo do capô para dar uma olhada mais de perto em 3 peças críticas do motor. Essas peças registraram mais milhas do que qualquer outra peça de motor atualmente registrada.
 					</span>
 					</span> 
 				</div>
@@ -134,7 +134,7 @@
 			
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	
 				<div class=" imgC" >
-					<a href="mahle" target="_blank">		
+					<a href="eventos/mahle/mahle.html" target="_blank">		
 					<img src="eventos/mahle/data1/images/01.jpg" >
 					</a><br>
 					<span class="text-center">Mahle/ Metal Leve</span>
@@ -142,7 +142,7 @@
 			</div>
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	
 				<div class=" imgC" >
-					<a href="jae" target="_blank">
+					<a href="eventos/jae/jae.html" target="_blank">
 					<img src="eventos/jae/data1/images/jae.jpg"  >
 					</a><br>
 					<span class="text-center">Inaugura&ccedil;&atilde;o J&aacute; &eacute; Motos</span>
@@ -150,7 +150,7 @@
 			</div>
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	
 				<div class=" imgC" >
-					<a href="box7" target="_blank">
+					<a href="eventos/box7/box7.html" target="_blank">
 					<img src="eventos/box7/data1/images/box_1.jpg"  >
 					</a><br>
 					<span class="text-center">Box7-Palestra Dudu Costa</span>
@@ -158,7 +158,7 @@
 			</div>	
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	
 				<div class=" imgC" >
-					<a href="cdl" target="_blank">		
+					<a href="eventos/cdl/cdl.html" target="_blank">		
 					<img src="eventos/cdl/data1/images/1.jpg" >
 					</a><br>
 					<span class="text-center">Feijoada CDL</span>
@@ -168,7 +168,7 @@
 		<div class="row subR">							
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	<br>
 				<div class=" imgC" >
-					<a href="day" target="_blank">		
+					<a href="eventos/castrol_day/day.html" target="_blank">		
 					<img src="eventos/castrol_day/data1/images/img20170502wa0001.jpg" >
 					</a><br>
 					<span class="text-center">Castrol Day</span>
