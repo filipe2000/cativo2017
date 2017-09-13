@@ -239,14 +239,18 @@
 	<div class="row subR"><!--linha lançamentos -->
 		<div class="col-md-12 ">
 			<h4 class="news">Lan&ccedil;amentos</h4>
-			<span class="text-center">Clique na marca abaixo e visualize seus produtos</span><br />
+			<span class="text-center">Clique nas marcas abaixo e visualize seus produtos</span><br />
 		</div>	           	
 	</div>
 	<div class="row subR">			
-		<div class="col-md-3 col-md-offset-4 col-sm-2 col-xs-6   imgC" >
-			<a href="lancamento/viking.pdf" target="_blank">
-			<img src="img/logos/fornec/viking.png" alt="Viking" border="0" /></a>
-		</div>		
+		<div class="col-md-2 col-md-offset-2 col-sm-2 col-xs-6   imgC" >
+			<a href="lancamento/cobreq.pdf" target="_blank">
+			<img src="img/logos/fornec/cobreq.png" alt="" width="150" border="0" /></a>
+		</div>
+		<div class="col-md-2 col-sm-2 col-xs-6   imgC" >
+			<a href="lancamento/wega.pdf" target="_blank">
+			<img src="img/logos/fornec/wega.png" width="120"  /></a>
+		</div>
 	</div>
 </div><!-- container -->
 <hr class="hr1" />

@@ -1,3 +1,3 @@
 
-	<?php echo "<script>location.href='../';</script>";  ?>
+	<?php echo "<script>location.href='../../';</script>";  ?>
 

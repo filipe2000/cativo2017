@@ -29,8 +29,8 @@
 		<div class="gg_right gg_btn"></div>
 		<ul class="wrap_ul">
 			<li class="li_item">
-			<a href="http://www.viking-pneus.com.br/ligeiros" target="_blank">
-				<img src="img\logos\viking.png" name="viking" alt="" onmouseover="ShowForn(this.name)" onmouseout="HideForn()">
+			<a href="http://www.avancohp.com.br/" target="_blank">
+				<img src="img\logos\avancohp.png" name="avan" alt="" onmouseover="ShowForn(this.name)" onmouseout="HideForn()">
 			</a>
 			</li>
 			<li class="li_item">
@@ -103,8 +103,7 @@
 		document.getElementById("passHover").hidden=false;		
 	}
 	function ShowForn(nF)
-	{	
-		var vik="Pneus do grupo Continental";
+	{
 		var avanc="Lubrificantes Especiais";
 		var bard="Óleos e Lubrificantes";
 		var castr="Óleos e Lubrificantes";
@@ -117,10 +116,7 @@
 		var w="Filtros, Lubrificantes e Acessórios";
 		document.getElementById("passHover").hidden=true;		
 		switch(nF)
-		{	case 'viking' :
-				document.getElementById("txtForn").hidden=false;				
-				document.getElementById("txtForn").innerHTML=vik;	
-				break;			
+		{
 			case 'avan' :
 				document.getElementById("txtForn").hidden=false;				
 				document.getElementById("txtForn").innerHTML=avanc;	
