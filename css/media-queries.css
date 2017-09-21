@@ -426,6 +426,9 @@
     #passHover{
         display: none;
     }
+    iframe.vss{
+        width: 90%;
+    }
     #cat a img {
     max-width: 100%;
     }
@@ -594,6 +597,16 @@
         font-size: 18px;
     }
 
+    iframe.vcast , iframe.vss{
+        width: 70%;
+        height: 300px;
+    }
+    .imgC video {
+    width: 70%;
+    }
+    .imgC img{
+        width: 70%;
+    }
     #passHover{
         display: none;
     }
@@ -796,9 +809,21 @@
     .topnav > li > a{
         font-size: 15px;
     }
-
+     iframe.vss{
+        width: 90%;
+    }
     #passHover{
         display: none;
+    }
+    iframe.vcast , iframe.vss{
+        width: 90%;
+        height: 200px;
+    }
+    .imgC video {
+    width: 90%;
+    }
+    .imgC img{
+        width: 90%;
     }
     #cat a img {
     max-width: 100%;
@@ -1021,6 +1046,9 @@
     }
     #cat a img {
     max-width: 100%;
+    }
+     iframe.vss{
+        width: 90%;
     }
     .imgSede{
     max-width: 100%;

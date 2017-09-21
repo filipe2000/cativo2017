@@ -26,10 +26,10 @@
 		</div>	
 
 		<div class="row subR">
-			<div class="col-md -12 col-xs-12 " >
+			<div class="col-md-12 col-xs-12 " >
 				<br><span class="text-justify">Sobre Castrol - a história</span>
 				<br>
-				<iframe src="https://www.youtube.com/embed/vMSREOh_PPU" frameborder="0" allowfullscreen width="220"></iframe>
+				<iframe src="https://www.youtube.com/embed/vMSREOh_PPU" frameborder="0" allowfullscreen class="vcast"></iframe>
 				<br>
 			</div>
 		</div>	
@@ -73,7 +73,7 @@
 		
 		<div class="row subR">	
 			<div class="col-md-6 col-sm-6 col-xs-12   imgC" >	
-			<iframe src="https://www.youtube.com/embed/8hnkexBfJtQ" frameborder="0" allowfullscreen width="220"></iframe>
+			<iframe src="https://www.youtube.com/embed/8hnkexBfJtQ" frameborder="0" allowfullscreen class="vss"></iframe>
 			</div>
 			<div class="col-md-6 col-sm-6 col-xs-12  text-left" >
 				<br>ASSISTA AO VÍDEO PARA DESCOBRIR COMO MAGNATEC STOP-START PROTEGE SEU MOTOR.
@@ -115,8 +115,8 @@
 					Desde o dia em que Irv rolou seu Volvo para fora do showroom, a Castrol / GTX foi seu óleo de escolha. Na verdade, é o único óleo que ele já usou. Para entender o que permitiu este recorde mundial, consultámos um especialista em motores Volvo e fomos debaixo do capô para dar uma olhada mais de perto em 3 peças críticas do motor. Essas peças registraram mais milhas do que qualquer outra peça de motor atualmente registrada.
 					</span>
 					</span> 
-				</div>
-			</div>
+				</div>				
+			</div><hr>
 	</div><!--col 5 -->
 	<div class="col-md-7 " ><!--col 5 principal-->
 		<div class="row subR">	<!--sub row -->	
@@ -164,9 +164,9 @@
 					<span class="text-center">Feijoada CDL</span>
 				</div>
 			</div>
-		</div>		
-		<div class="row subR">							
-			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	<br>
+		</div>
+		<div class="row subR">	
+			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">
 				<div class=" imgC" >
 					<a href="eventos/castrol_day/day.html" target="_blank">		
 					<img src="eventos/castrol_day/data1/images/img20170502wa0001.jpg" >
@@ -174,7 +174,15 @@
 					<span class="text-center">Castrol Day</span>
 				</div>
 			</div>
-			<div class="col-md-9 col-sm-6 col-xs-6 evDesc">
+			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">
+				<div class=" imgC" >
+					<a href="eventos/nova_peças/nova_peças.html" target="_blank">		
+					<img src="img/nova_pecas.png" style="border: 1px solid #000">
+					</a><br>
+					<span class="text-center">Castrol Day</span>
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-12 col-xs-12 evDesc">
 				<div class="row subR" style="border-bottom: 1px solid #000">
 				<span align="center" class="color">Treinamento Virtual Castrol</span>
 				</div>
@@ -196,14 +204,14 @@
 				</div>	
 				<div class="row subR">
 					<div class="col-md-12 col-sm-12 col-xs-12 evDesc" style="border-bottom: 1px solid #000">
-						<span class="text-center">Treinamento Virtual sobre Transmissões e Agile Promoter<br />
-						Ministrado por Anderson Cerca e Fernanda Nunes
+						<span class="text-center">Treinamento: Transmissões e Agile Promoter Ministrado por Anderson Cerca e Fernanda Nunes
 						</span>
 					</div>
 				</div>
 			</div>
-		</div>	
-		<div class="row subR">							
+		</div>
+
+     	<div class="row subR">							
 			<div class="col-md-6 col-sm-6 col-xs-12">
 				<img src="img/Renault.jpg" class="imgC">
 			</div>
@@ -231,6 +239,7 @@
 			</span>
 			</div>
 		</div>
+
 	</div>
 
 </div><!-- row -->	
@@ -243,7 +252,7 @@
 		</div>	           	
 	</div>
 	<div class="row subR">			
-		<div class="col-md-3 col-md-offset-4 col-sm-2 col-xs-6   imgC" >
+		<div class="col-md-3 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-8 col-xs-offset-2   imgC" >
 			<a href="lancamento/viking.pdf" target="_blank">
 			<img src="img/logos/fornec/viking.png" alt="Viking" border="0" /></a>
 		</div>		

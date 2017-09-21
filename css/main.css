@@ -65,6 +65,9 @@ body {
 	video {
     object-fit: contain;
 	}
+	iframe.vss{
+        width: 90%;
+    }
 	.imgSede{
 	max-width: 60%;
 	position: fixed;	
