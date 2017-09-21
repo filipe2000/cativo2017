@@ -134,7 +134,7 @@
 			
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	
 				<div class=" imgC" >
-					<a href="eventos/mahle/mahle.html" target="_blank">		
+					<a href="eventos/mahle/index.html" target="_blank">		
 					<img src="eventos/mahle/data1/images/01.jpg" >
 					</a><br>
 					<span class="text-center">Mahle/ Metal Leve</span>
@@ -142,7 +142,7 @@
 			</div>
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	
 				<div class=" imgC" >
-					<a href="eventos/jae/jae.html" target="_blank">
+					<a href="eventos/jae/index.html" target="_blank">
 					<img src="eventos/jae/data1/images/jae.jpg"  >
 					</a><br>
 					<span class="text-center">Inaugura&ccedil;&atilde;o J&aacute; &eacute; Motos</span>
@@ -150,7 +150,7 @@
 			</div>
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	
 				<div class=" imgC" >
-					<a href="eventos/box7/box7.html" target="_blank">
+					<a href="eventos/box7/index.html" target="_blank">
 					<img src="eventos/box7/data1/images/box_1.jpg"  >
 					</a><br>
 					<span class="text-center">Box7-Palestra Dudu Costa</span>
@@ -158,7 +158,7 @@
 			</div>	
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	
 				<div class=" imgC" >
-					<a href="eventos/cdl/cdl.html" target="_blank">		
+					<a href="eventos/cdl/index.html" target="_blank">		
 					<img src="eventos/cdl/data1/images/1.jpg" >
 					</a><br>
 					<span class="text-center">Feijoada CDL</span>
@@ -168,7 +168,7 @@
 		<div class="row subR">	
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">
 				<div class=" imgC" >
-					<a href="eventos/castrol_day/day.html" target="_blank">		
+					<a href="eventos/castrol_day/index.html" target="_blank">		
 					<img src="eventos/castrol_day/data1/images/img20170502wa0001.jpg" >
 					</a><br>
 					<span class="text-center">Castrol Day</span>
@@ -176,7 +176,7 @@
 			</div>
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">
 				<div class=" imgC" >
-					<a href="eventos/nova_peças/nova_peças.html" target="_blank">		
+					<a href="eventos/nova_pecas/index.html" target="_blank">		
 					<img src="img/nova_pecas.png" style="border: 1px solid #000">
 					</a><br>
 					<span class="text-center">Castrol Day</span>
