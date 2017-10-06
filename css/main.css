@@ -62,6 +62,41 @@ body {
 		}
 	}
 	*/	
+
+	/*eventos*/
+	.eventos{
+	margin: auto;
+	width: 100%;
+	height: 170px;
+	/*border: 1px solid #000;*/
+	overflow-x: scroll;
+	overflow-y: hidden;
+	white-space: nowrap;
+}
+.eventos .evt img{
+	max-height: 160px;	
+}
+
+@keyframes animeEventos {
+    0%   {right:0px; top:0px;}
+    100%  {right:2300px; top:0px;}    
+}
+.evt{
+	 position: relative;
+    -webkit-animation-name: animeEventos; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 25s; /* Safari 4.0 - 8.0 */
+    animation-name: animeEventos;
+    animation-duration: 25s;
+	animation-timing-function: linear;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+	animation-delay: 5s;	
+}
+.evt:hover{
+	animation-play-state: paused;
+}
+
+/*-------------------*/
 	video {
     object-fit: contain;
 	}

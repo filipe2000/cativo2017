@@ -124,12 +124,13 @@
 		
 		</div>
 		
-		<div class="row subR">
+		<div class="row subR" >
 			<div class="col-md-12 evDesc">
-					<h4 class="color">Eventos</h4>
+					<h4 class="color" style="background-color: #ddd" >Eventos</h4>
 					
 			</div>	
 		</div>
+		<div style="border: 2px solid #ddd"><!-- div borda eventos  -->
 		<div class="row subR">				
 			
 			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">	
@@ -165,51 +166,70 @@
 				</div>
 			</div>
 		</div>
-		<div class="row subR">	
-			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">
+		<!-- castrol day -->
+		<br>
+		<div class="color">Castrol Day</div>
+		<div class="row subR eventos" >			
+			<div class="evt">
+			<img src="img/CastrolDay.jpg" title="Castrol Day">
+			<a href="eventos/castrol-day/tc/index.html" target="_blank"  >
+			<img src="eventos/castrol-day/tc/data1/images/capa.jpg" title="TC de Almeida"></a>
+			<a href="eventos/castrol-day/nova_pecas/index.html" target="_blank"  >
+			<img src="img/nova_pecasloja.jpg" title="Nova Peças"></a>
+			<a href="eventos/castrol-day/2017-07-07-Atacadao-VC/index.html" target="_blank"  >
+			<img src="eventos/castrol-day/2017-07-07-Atacadao-VC/data1/images/01.png" title="Atacadão-Vicente Carvalho 07-07-2017"></a>
+			<a href="eventos/castrol-day/2017-07-10-Ludamar/index.html" target="_blank"  >
+			<img src="img/Ludamar.png" title="Ludamar Motors-Tijuca 10-07-2017"></a>
+			<a href="eventos/castrol-day/2017-07-20-JotasZ.R/index.html" target="_blank"  >
+			<img src="img/JotasZ.R.png" title="JotasZ.R-Campo Grande 20-07-2017"></a>
+			<a href="eventos/castrol-day/2017-07-21-Atacadao-NI/index.html" target="_blank"  >
+			<img src="eventos/castrol-day/2017-07-21-Atacadao-NI/data1/images/01.png" title="Atacadão-Nova Iguaçu 21-07-2017"></a>
+			<a href="eventos/castrol-day/2017-07-24-Fuskauto-TR/index.html" target="_blank"  >
+			<img src="img/Fuskauto.png" title="Fuskauto-TresRios 24-07-2017"></a>
+			<a href="eventos/castrol-day/2017-07-27-Cachamorra-CG/index.html" target="_blank"  >
+			<img src="img/Cachamorra.png" title="Cachamorra-Campo Grande 27-07-2017"></a>
+			<a href="eventos/castrol-day/2017-07-28-Evolution-MC/index.html" target="_blank"  >
+			<img src="img/Evolution.png" title="Evolution-Miguel Couto 28-07-2017"></a>
+			<a href="eventos/castrol-day/2017-08-04-Duchao-CG/index.html" target="_blank"  >
+			<img src="img/duchao.png" title="Duchão– Campo Grande 04-08-2017"></a>
+			<a href="eventos/castrol-day/2017-08-11-Atacadao-NI/index.html" target="_blank"  >
+			<img src="eventos/castrol-day/2017-08-11-Atacadao-NI/data1/images/1.png" title="Atacadão-Nova Iguaçu 11-08-2017"></a>
+			<a href="eventos/castrol-day/2017-08-23-OverOil-IG/index.html" target="_blank"  >
+			<img src="img/overOil.png" title="Over Oil-Ilha do Governador 23-08-2017"></a>
+			<a href="eventos/castrol-day/2017-08-25-Atacadao-VC/index.html" target="_blank"  >
+			<img src="eventos/castrol-day/2017-08-25-Atacadao-VC/data1/images/01.png" title="Atacadão – Vicente de Carvalho 25-08-2017"></a>
+			<a href="eventos/castrol-day/2017-08-29-Himago/index.html" target="_blank"  >
+			<img src="eventos/castrol-day/2017-08-29-Himago/data1/images/01.png" title="Himago - Caxias 29-08-2017"></a>
+			</div>
+		</div>		
+			<br>
+		<div class="row subR" >
+		<span align="center" class="color">Treinamento Virtual Castrol</span>
+		</div>
+		<div class="row subR">			
+			<div class="col-md-6 col-sm-6 col-xs-6 evDesc">	
 				<div class=" imgC" >
-					<a href="eventos/castrol_day/index.html" target="_blank">		
-					<img src="eventos/castrol_day/data1/images/img20170502wa0001.jpg" >
-					</a><br>
-					<span class="text-center">Castrol Day</span>
+					<a href="img/1.jpg" data-lightbox="treina" title="Equipe de vendas da Cativo">
+					<img src="img/1.jpg"  >
+					</a><br>					
 				</div>
 			</div>
-			<div class="col-md-3 col-sm-6 col-xs-6 evDesc">
+			<div class="col-md-6 col-sm-6 col-xs-6 evDesc" >	
 				<div class=" imgC" >
-					<a href="eventos/nova_pecas/index.html" target="_blank">		
-					<img src="img/nova_pecas.png" style="border: 1px solid #000">
-					</a><br>
-					<span class="text-center">Castrol Day</span>
+					<a href="img/2.jpg" data-lightbox="treina" title="Equipe de vendas da Cativo">
+					<img src="img/2.jpg"  >
+					</a><br>					
 				</div>
-			</div>
-			<div class="col-md-6 col-sm-12 col-xs-12 evDesc">
-				<div class="row subR" style="border-bottom: 1px solid #000">
-				<span align="center" class="color">Treinamento Virtual Castrol</span>
-				</div>
-				<div class="row subR">			
-					<div class="col-md-6 col-sm-6 col-xs-6 evDesc">	
-						<div class=" imgC" >
-							<a href="img/1.jpg" data-lightbox="treina" title="Equipe de vendas da Cativo">
-							<img src="img/1.jpg"  >
-							</a><br>					
-						</div>
-					</div>
-					<div class="col-md-6 col-sm-6 col-xs-6 evDesc" >	
-						<div class=" imgC" >
-							<a href="img/2.jpg" data-lightbox="treina" title="Equipe de vendas da Cativo">
-							<img src="img/2.jpg"  >
-							</a><br>					
-						</div>
-					</div>			
-				</div>	
-				<div class="row subR">
-					<div class="col-md-12 col-sm-12 col-xs-12 evDesc" style="border-bottom: 1px solid #000">
-						<span class="text-center">Treinamento: Transmissões e Agile Promoter Ministrado por Anderson Cerca e Fernanda Nunes
-						</span>
-					</div>
-				</div>
+			</div>			
+		</div>	
+		<div class="row subR">
+			<div class="col-md-12 col-sm-12 col-xs-12 evDesc" >
+				<span class="text-center">Treinamento: Transmissões e Agile Promoter Ministrado por Anderson Cerca e Fernanda Nunes
+				</span>
 			</div>
 		</div>
+		
+		</div><!-- div para borda eventos-->
 
      	<div class="row subR">							
 			<div class="col-md-6 col-sm-6 col-xs-12">
