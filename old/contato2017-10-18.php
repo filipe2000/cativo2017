@@ -53,14 +53,14 @@
 			 &nbsp;4063-8864
 			</div>		
 		</div><!-- row-->	
-		<!-- 
+
 		<div class="row subR con-info clearfix ">		
 			<div class="col-md-1 col-xs-1" >		
-			</div>
+			</div><!-- col 1-->
 			<div class="col-md-11 col-xs-11 cont text-left" >
 				Id - 81*128866
-			</div>
-		</div>row-->
+			</div><!-- col 3-->
+		</div><!-- row-->
 
 		<div class="row subR con-info clearfix text-left cont">
 			<div class="col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1 ">
