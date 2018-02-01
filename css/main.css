@@ -103,11 +103,11 @@ body {
 	iframe.vss{
         width: 90%;
     }
-	.imgSede{
-	max-width: 60%;
+	.imgStart{
+	max-width: 100%;
 	position: fixed;	
-	left: 20%;
-	margin-top: 10px;	
+	margin: auto;
+	margin-top: 100px;	
 	}
 	/* ---------produtos*/
 	.produto-filter > li a:hover, .produto-filter > li a.active , .produto-filter a:hover{

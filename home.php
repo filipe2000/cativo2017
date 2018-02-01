@@ -5,7 +5,7 @@
 </script>
 <!--   modal no inicio -->
 <div id="myModal" class="modal fade bs-example-modal-sm" 	tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true" style="background-color:transparent;">
-    <img src="img\sede.png" class="imgSede">  
+    <img src="img/the best-2017.png" class="imgStart">  
 </div>
 
 <div align="center" class="container wellcome" >
@@ -24,16 +24,6 @@
 				<br><span class="text-justify">Distribuidor Autorizado</span>
 			</div>
 		</div>	
-
-		<div class="row subR">
-			<div class="col-md-12 col-xs-12 " >
-				<br><span class="text-justify">Sobre Castrol - a história</span>
-				<br>
-				<iframe src="https://www.youtube.com/embed/vMSREOh_PPU" frameborder="0" allowfullscreen class="vcast"></iframe>
-				<br>
-			</div>
-		</div>	
-
 		<div class="row subR">
 		
 			<div class="col-md -12 col-xs-12 text-justify"><br>
@@ -58,38 +48,53 @@
 			</span>
 			</span>
 			</div>
+		</div><hr>
+		<div class="row subR">
+			<div class="col-md-6 col-sm-6 col-xs-12   imgC" >
+			<a href="img/GTX-50anos-full.png" data-lightbox="home-light">
+					<img src="img/GTX-50anos.png" ></a>
+			</div>
+			<div class="col-md-6 col-sm-6 col-xs-12  text-justify" >
+			GTX 50 ANOS<br>
+			Castrol GTX foi lançado em 1968, o primeiro óleo multiviscoso com uma avaliação da viscosidade 20W/50 chega ao mercado, tornando-se sucesso de vendas em postos de gasolina e oficinas mecânicas em mais de 140 países. Mais tarde tornou-se o óleo de motor mais famoso de todos os tempos.
+			</div>			
+		</div>	
+		<hr>
+		<div class="row subR">
+			
+			<div class="col-md-6 col-sm-6 col-xs-12  text-justify" >
+			CASTROL É A MARCA DE ÓLEO LUBRIFICANTE PREFERIDA<br>
+			No ano em que completa 60 anos no Brasil, agradecemos aos clientes e consumidores que escolheram a Castrol como a marca de oleo lubrificante preferida pela Pesuisa Os Eleitos Quatro Rodas 2017.	
+			</div>			
+			<div class="col-md-6 col-sm-6 col-xs-12   imgC" >
+			<a href="img/eleita.png" data-lightbox="home-light">
+					<img src="img/eleita.png" ></a>
+			</div>
 		</div>
-
+		<hr>
+		
 		<div class="row subR">	
 			<div class="col-md-6 col-sm-6 col-xs-12  imgC " >
-			<a href="img/stop-start.jpg" data-lightbox="stop-start">
-					<br><img src="img/stop-start.jpg" ></a>
+			<a href="img/stop-start.jpg" data-lightbox="home-light">
+					<img src="img/stop-start.jpg" ></a>
 			</div>
 			<div class="col-md-6 col-sm-6 col-xs-12  text-left" >
-			<br>MAGNATEC STOP-START <br>O seu motor necessita de um óleo criado especiamente para proteger contra o desgaste do anda e para!
+			MAGNATEC STOP-START <br>O seu motor necessita de um óleo criado especiamente para proteger contra o desgaste do anda e para!
 			</div>
 		</div><!-- row-->
 		<hr>
 		
-		<div class="row subR">	
-			<div class="col-md-6 col-sm-6 col-xs-12   imgC" >	
-			<iframe src="https://www.youtube.com/embed/8hnkexBfJtQ" frameborder="0" allowfullscreen class="vss"></iframe>
-			</div>
-			<div class="col-md-6 col-sm-6 col-xs-12  text-left" >
-				<br>ASSISTA AO VÍDEO PARA DESCOBRIR COMO MAGNATEC STOP-START PROTEGE SEU MOTOR.
-			</div><!--col  -->
-		</div>	<!-- row-->	
-		<hr>
 		<div class="row subR">
+			
+			<div class="col-md-6 col-sm-6 col-xs-12  text-left" >
+			COMO SE APAIXONAR PELA CASTROL. 
+				PARA QUEM AMA SEU CARRO, AME A CASTROL PELO CUIDADO AO SOU MOTOR.
+			</div>
 			<div class="col-md-6 col-sm-6 col-xs-12   imgC" >
 			<video controls poster="img/irv.jpg">
 				<source src="volvo.mp4" type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
 				Sem suporte
 			</video>
-			</div>
-			<div class="col-md-6 col-sm-6 col-xs-12  text-left" >
-			COMO SE APAIXONAR PELA CASTROL. 
-				PARA QUEM AMA SEU CARRO, AME A CASTROL PELO CUIDADO AO SOU MOTOR.
 			</div>			
 		</div>
 		<div class="row subR">
@@ -271,12 +276,24 @@
 			<span class="text-center">Clique na marca abaixo e visualize seus produtos</span><br />
 		</div>	           	
 	</div>
+	<!--
 	<div class="row subR">			
 		<div class="col-md-3 col-md-offset-4 col-sm-6 col-sm-offset-3 col-xs-8 col-xs-offset-2   imgC" >
 			<a href="lancamento/viking.pdf" target="_blank">
 			<img src="img/logos/fornec/viking.png" alt="Viking" border="0" /></a>
 		</div>		
-	</div>
+	</div>-->
+	<div class="row subR">			
+		<div class="col-md-3 col-md-offset-3 col-sm-6  col-xs-6    imgC" >
+			<a href="lancamento/viking.pdf" target="_blank">
+			<img src="img/logos/fornec/viking.png" alt="Viking" border="0" /></a>
+		</div>		
+			
+		<div class="col-md-3 col-sm-6  col-xs-6   imgC" >
+			<a href="img/GTX-ultraClean3.jpg" data-lightbox="ultraclean">
+			<img src="img/Castrol_logo.png" alt="CASTROL" border="0" /></a>
+		</div>		
+	
 </div><!-- container -->
 <hr class="hr1" />
 

@@ -418,7 +418,33 @@
                             </div>
                         </div>          
                     </div><!--/.produto-item-->
-                    <!--lançamento 7/2017 -->
+                    <!--lançamento 02/2017 -->
+                    <div class="produto-item oleo col-md-2 col-xs-6 col-sm-4 ">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="img/produtos/pq/CAS3417898.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner text-center">
+                                    <h3 style="text-align:center;">
+                                    <a class="preview" href="img/produtos/full/CAS3417898.jpg" rel="prettyPhoto" data-lightbox="prodItem">Oleo Motor</h3>
+                                    GTX ULTRACLEAN 15W40 24x1L
+                                    <br><i class="fa fa-eye"></i> Ver</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div>
+                    <div class="produto-item oleo col-md-2 col-xs-6 col-sm-4 ">
+                        <div class="recent-work-wrap">
+                            <img class="img-responsive" src="img/produtos/pq/CAS3417852.jpg" alt="">
+                            <div class="overlay">
+                                <div class="recent-work-inner text-center">
+                                    <h3 style="text-align:center;">
+                                    <a class="preview" href="img/produtos/full/CAS3417852.jpg" rel="prettyPhoto" data-lightbox="prodItem">Oleo Motor</h3>
+                                    GTX ULTRACLEAN 5W30 24x1L
+                                    <br><i class="fa fa-eye"></i> Ver</a>
+                                </div> 
+                            </div>
+                        </div>          
+                    </div>
                     <div class="produto-item oleo col-md-2 col-xs-6 col-sm-4 ">
                         <div class="recent-work-wrap">
                             <img class="img-responsive" src="img/produtos/pq/CAS3409385.jpg" alt="">
